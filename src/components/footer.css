@@ -2,11 +2,13 @@
   background-color: #b6e3ee;
   height: 25px;
   border-top: 1px solid blue;
+  padding: 5px 0 10px 0;
+  font-size: 12px;
 }
 
 .footer label {
   color: blue;
   font-size: larger;
   font-style: oblique;
-  font-weight: bold;
+  font-family: fantasy;
 }

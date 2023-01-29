@@ -3,9 +3,9 @@ import './footer.css';
 function Footer() {
     return (
         <div className='footer'>
-            <label>Scott Stevens</label>
+            <label>Wade's Shades</label>
         </div>
     );
 }
 
-export default Footer; 
+export default Footer;  
