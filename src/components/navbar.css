@@ -1,9 +1,10 @@
 .navbar {
-  color: blue;
+  color: rgb(58, 58, 255);
+  border-top: 2px solid black;
   border-bottom: 1px solid blue;
-  background-color: #b6e3ee;
+  background-color: aliceblue;
   align-content: center; 
-  height: 25px;
+  height: 35px;
   font-size: larger;
   font-weight: bold;
 }

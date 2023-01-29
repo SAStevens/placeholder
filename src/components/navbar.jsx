@@ -4,7 +4,7 @@ import "./navbar.css";
 function Navbar() {
   return (
     <div className="navbar">
-        MENU GOES HERE
+        Menu Goes Here
     </div>
   );
 }
