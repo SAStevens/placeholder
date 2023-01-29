@@ -1,0 +1,13 @@
+.footer {
+  background-color: #b6e3ee;
+  height: 35px;
+  border-top: 1px solid blue;
+
+}
+
+.footer label {
+  color: blue;
+  font-size: larger;
+  font-style: oblique;
+  font-family: fantasy;
+}
