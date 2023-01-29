@@ -2,8 +2,8 @@
   color: blue;
   border-bottom: 1px solid blue;
   background-color: #b6e3ee;
+  align-content: center; 
   height: 25px;
   font-size: larger;
-  font-style: oblique;
   font-weight: bold;
 }
