@@ -138,7 +138,7 @@ var catalog = [
     {
         "title": "Sojos Retro Hexagon - Pink",
         "category": "womens",
-        "price": 14.99,
+        "price": 16.99,
         "image": ".\images\Sojos_Retro_Hexagon_Women_14-99.JPG",
         "_id": "pn18"
     },
@@ -152,62 +152,43 @@ var catalog = [
     },
 
     {
-        "title": "Orange",
-        "category": "fruit",
-        "price": 12.99,
-        "image": "something.png",
-        "_id": "a;lkdjf807"
+        "title": "Sojos Round Classic",
+        "category": "womens",
+        "price": 14.99,
+        "image": ".\images\Sojos_Small_Round_Classic_14-99.JPG",
+        "_id": "pn20"
     },
     
     {
-        "title": "Orange",
-        "category": "fruit",
-        "price": 12.99,
-        "image": "something.png",
-        "_id": "a;lkdjf807"
-    },
-    {
-        "title": "Orange",
-        "category": "fruit",
-        "price": 12.99,
-        "image": "something.png",
-        "_id": "a;lkdjf807"
-    },
-    {
-        "title": "Orange",
-        "category": "fruit",
-        "price": 12.99,
-        "image": "something.png",
-        "_id": "a;lkdjf807"
-    },
-    {
-        "title": "Orange",
-        "category": "fruit",
-        "price": 12.99,
-        "image": "something.png",
-        "_id": "a;lkdjf807"
-    },
-    {
-        "title": "Orange",
-        "category": "fruit",
-        "price": 12.99,
-        "image": "something.png",
-        "_id": "a;lkdjf807"
-    },
-    {
-        "title": "Orange",
-        "category": "fruit",
-        "price": 12.99,
-        "image": "something.png",
-        "_id": "a;lkdjf807"
-    },
-    {
-        "title": "Orange",
-        "category": "fruit",
-        "price": 12.99,
-        "image": "something.png",
-        "_id": "a;lkdjf807"
+        "title": "Sojos Round Vintage",
+        "category": "uni",
+        "price": 15.99,
+        "image": ".\images\Sojos_Small_Round_Vintage_14-99.JPG",
+        "_id": "pn21"
     },
 
+    {
+        "title": "Sojos Square - Mirrored",
+        "category": "womens",
+        "price": 16.99,
+        "image": ".\images\Sojos_Small_Square_Polygonal_Mirrored_15-99.jpg",
+        "_id": "pn22"
+    },
+
+    {
+        "title": "Suncloud Bayshore",
+        "category": "uni",
+        "price": 25.04,
+        "image": ".\images\Suncloud_Bayshore_25-04.JPG",
+        "_id": "pn23"
+    },
+
+    {
+        "title": "Suncloud Fortune",
+        "category": "uni",
+        "price": 24.32,
+        "image": ".\images\Suncloud_Fortune_24-32.JPG",
+        "_id": "pn24"
+    },
 
 ];
