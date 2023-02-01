@@ -14,7 +14,6 @@ function Product() {
                     <label>Price</label>
                 </div>
         
-
             <QuantityPicker />
 
             <button className='btn btn-sm btn-outline-primary'>Add</button>

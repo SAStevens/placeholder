@@ -1,15 +1,11 @@
 .footer {
   background-color: aliceblue;
-  height: 35px;
-  /* border-top: 1px solid blue;
-  border-bottom: 2px solid black; */
-
-
+  height: 40px;
 }
 
 .footer label {
   color: rgb(255, 183, 2);
-  font-size: 25px;
+  font-size: 30px;
   font-style: oblique;
   font-family: fantasy;
   text-transform: uppercase;

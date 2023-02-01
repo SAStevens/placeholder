@@ -3,11 +3,9 @@ import Product from "../components/product";
 import DataService from '../services/dataService';
 import "./catalog.css";
 
-
 function Catalog() {
 
     const [products, setProducts] = useState([]);
-
 
     useEffect(function(){
         console.log("component loaded");
@@ -28,8 +26,8 @@ function Catalog() {
 
     return (
         <div className="catalog">
-            <h1>Check out our amazing products</h1>
-            <h5>We have {products.length} products available now!</h5>
+            <h1>Wade's Shades</h1>
+            <h5>We have {products.length} exciting products available now!</h5>
 
             <button onClick={magicTest} className="btn btn-danger">Magic</button>
             <br />
@@ -37,7 +35,6 @@ function Catalog() {
             {products.map( p => <Product data={p}></Product> )}
 
         </div>
-
     );
 }
 

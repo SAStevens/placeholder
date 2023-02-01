@@ -3,7 +3,7 @@ import './footer.css';
 function Footer() {
     return (
         <div className='footer'>
-            <label>Wade's Shades</label>
+            <label>Check out all of our amazing products</label>
         </div>
     );
 }

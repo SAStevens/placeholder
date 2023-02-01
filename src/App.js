@@ -6,8 +6,6 @@ import Navbar from "./components/navbar";
 import Catalog from "./pages/catalog";
 import Footer from "./components/footer";
 
-
-
 function App() {
   return (
     <div className="App">

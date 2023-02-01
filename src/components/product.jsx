@@ -20,7 +20,6 @@ function Product(props) {
                     <label>Price ${props.data.price.toFixed(2)}</label>
                 </div>
 
-        
             <QuantityPicker />
 
             <button className='btn btn-sm btn-outline-primary'>Add</button>

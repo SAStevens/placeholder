@@ -1,14 +1,15 @@
 
 .catalog {
-    background-color: rgb(223, 237, 243);
-    min-height: 92.75vh;
+    background-color: rgb(222, 244, 255);
+    min-height: 96vh;
 }
 
 .catalog h1 {
     color: rgb(255, 183, 2);
-    font-size: 35px;
+    font-size: 45px;
     font-style: oblique;
     font-family: fantasy;
     text-transform: uppercase;
     text-shadow: 0.5px 1px 0px black;
+    letter-spacing: 10px;
 }

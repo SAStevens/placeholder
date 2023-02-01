@@ -4,16 +4,12 @@
     border-radius: 3px;
     display: inline-block;
     width:230px;
-    height: 410px;
+    height: 405px;
     margin: 5px 5px;
     background-color:white;
     padding: 2px;
     vertical-align: top;
-    box-shadow: 1px 1px 2px 0 grey;
-}
-
-.product h5 {
-    margin:
+    box-shadow: 2px 1px 0 0 grey;
 }
 
 .product:hover {
@@ -21,9 +17,7 @@
 }
 
 .product .prices {
-    display: 
-    flex;
-
+    display: flex;
 }
 
 .product .prices label {

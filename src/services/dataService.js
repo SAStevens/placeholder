@@ -152,7 +152,7 @@ var catalog = [
     },
 
     {
-        "title": "Sojos Round Classic",
+        "title": "Sojos Small Round Classic",
         "category": "womens",
         "price": 14.99,
         "image": "Sojos_Small_Round_Classic_14-99.JPG",
@@ -160,7 +160,7 @@ var catalog = [
     },
     
     {
-        "title": "Sojos Round Vintage",
+        "title": "Sojos Small Round Vintage",
         "category": "uni",
         "price": 15.99,
         "image": "Sojos_Small_Round_Vintage_14-99.JPG",
@@ -168,7 +168,7 @@ var catalog = [
     },
 
     {
-        "title": "Sojos Square - Mirrored",
+        "title": "Sojos Small Square - Mirrored",
         "category": "womens",
         "price": 16.99,
         "image": "Sojos_Small_Square_Polygonal_Mirrored_15-99.jpg",
@@ -190,19 +190,15 @@ var catalog = [
         "image": "Suncloud_Fortune_24-32.JPG",
         "_id": "pn24"
     },
-
 ];
-
 
 class DataService {
 
     getProducts() {
-        // TODO: Connect and get products from server to display
+        // TODO: Connect to server and get products to display
 
         return catalog;
     }
-
-
 }
 
 export default DataService;
