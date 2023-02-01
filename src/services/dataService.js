@@ -3,7 +3,7 @@ var catalog = [
         "title": "Faguma Mens Sports - Mirror",
         "category": "mens",
         "price": 18.97,
-        "image": ".\images\Faguma_Sports_Mens_18-97.JPG",
+        "image": "Faguma_Sports_Mens_18-97.JPG",
         "_id": "pn1"
     }, 
 
@@ -11,7 +11,7 @@ var catalog = [
         "title": "Faguma Mens Sports - Black",
         "category": "mens",
         "price": 16.87,
-        "image": ".\images\Faguma_Sports_Mens_Black_16-87.JPG",
+        "image": "Faguma_Sports_Mens_Black_16-87.JPG",
         "_id": "pn2"
     },
 
@@ -19,7 +19,7 @@ var catalog = [
         "title": "Foster Grant Brown/Tortoise",
         "category": "uni",
         "price": 23.12,
-        "image": ".\images\Foster_Grant_Brown_Tortoise_54mm_23-12.JPG",
+        "image": "Foster_Grant_Brown_Tortoise_54mm_23-12.JPG",
         "_id": "pn3"
     },
 
@@ -27,7 +27,7 @@ var catalog = [
         "title": "Foster Grant Elise - Rose/Gold",
         "category": "womens",
         "price": 20.95,
-        "image": ".\images\Foster_Grant_Elise_Rose_Gold_56mm_20-95.JPG",
+        "image": "Foster_Grant_Elise_Rose_Gold_56mm_20-95.JPG",
         "_id": "pn4"
     },
 
@@ -35,7 +35,7 @@ var catalog = [
         "title": "Foster Grant Marli - Tortoise",
         "category": "mens",
         "price": 27.42,
-        "image": ".\images\Foster_Grant_Men's_Marli_27-42.JPG",
+        "image": "Foster_Grant_Men's_Marli_27-42.JPG",
         "_id": "pn5"
     },
 
@@ -43,7 +43,7 @@ var catalog = [
         "title": "Foster Grant Oscar - Gunmental/Smoke",
         "category": "mens",
         "price": 20.00,
-        "image": ".\images\Foster_Grant_Mens_Oscar_Gunmetal-Smoke_64mm_20-00.JPG",
+        "image": "Foster_Grant_Mens_Oscar_Gunmetal-Smoke_64mm_20-00.JPG",
         "_id": "pn6"
     },
 
@@ -51,7 +51,7 @@ var catalog = [
         "title": "Foster Grant Senate Segmented",
         "category": "mens",
         "price": 14.19,
-        "image": ".\images\Foster_Grant_Mens_Senate-Segmented_14-19.JPG",
+        "image": "Foster_Grant_Mens_Senate-Segmented_14-19.JPG",
         "_id": "pn7"
     },
 
@@ -59,7 +59,7 @@ var catalog = [
         "title": "Foster Grant Sunday Drive",
         "category": "mens",
         "price": 18.89,
-        "image": ".\images\Foster_Grant_Mens_Sunday-Drive_18-89.JPG",
+        "image": "Foster_Grant_Mens_Sunday-Drive_18-89.JPG",
         "_id": "pn8"
     },
 
@@ -67,7 +67,7 @@ var catalog = [
         "title": "Foster Grant Sun Luv - Crystal",
         "category": "womens",
         "price": 25.43,
-        "image": ".\images\Foster_Grant_Sun-Luv_Square_Crystal_56mm_25-43.JPG",
+        "image": "Foster_Grant_Sun-Luv_Square_Crystal_56mm_25-43.JPG",
         "_id": "pn9"
     },
 
@@ -75,7 +75,7 @@ var catalog = [
         "title": "Foster Grant 1920's - Brown",
         "category": "womens",
         "price": 19.95,
-        "image": ".\images\Foster_Grant_Womens_1920s_Brown_51mm_19-95.JPG",
+        "image": "Foster_Grant_Womens_1920s_Brown_51mm_19-95.JPG",
         "_id": "pn10"
     },
 
@@ -83,7 +83,7 @@ var catalog = [
         "title": "Foster Grant Addison",
         "category": "womens",
         "price": 21.31,
-        "image": ".\images\Foster_Grant_Womens_Addison_21-31.JPG",
+        "image": "Foster_Grant_Womens_Addison_21-31.JPG",
         "_id": "pn11"
     },
 
@@ -91,7 +91,7 @@ var catalog = [
         "title": "Foster Grant Cat Eye - Tortoise",
         "category": "womens",
         "price": 23.82,
-        "image": ".\images\Foster_Grant_Womens_Cat-Eye_Tortoise_55mm_23-82.JPG",
+        "image": "Foster_Grant_Womens_Cat-Eye_Tortoise_55mm_23-82.JPG",
         "_id": "pn12"
     },
 
@@ -99,7 +99,7 @@ var catalog = [
         "title": "Foster Grant Hannah - Rose/Gold",
         "category": "womens",
         "price": 21.50,
-        "image": ".\images\Foster_Grant_Womens_Hannah_Rose-RoseGold_21-.5.JPG",
+        "image": "Foster_Grant_Womens_Hannah_Rose-RoseGold_21-.5.JPG",
         "_id": "pn13"
     },
 
@@ -107,7 +107,7 @@ var catalog = [
         "title": "Foster Grant Prelude Aviators",
         "category": "womens",
         "price": 18.34,
-        "image": ".\images\Foster_Grant_Womens_Prelude_Aviator_11-34.JPG",
+        "image": "Foster_Grant_Womens_Prelude_Aviator_11-34.JPG",
         "_id": "pn14"
     },
 
@@ -115,7 +115,7 @@ var catalog = [
         "title": "Sojos Classic Aviators",
         "category": "uni",
         "price": 12.74,
-        "image": ".\images\Sojos_Classic_Aviator_12-74.JPG",
+        "image": "Sojos_Classic_Aviator_12-74.JPG",
         "_id": "pn15"
     },
 
@@ -123,7 +123,7 @@ var catalog = [
         "title": "Sojos Classic Round Vintage",
         "category": "uni",
         "price": 15.99,
-        "image": ".\images\Sojos_Large_Classic_Round_Retro_Vintage_15-99.JPG",
+        "image": "Sojos_Large_Classic_Round_Retro_Vintage_15-99.JPG",
         "_id": "pn16"
     },
 
@@ -131,7 +131,7 @@ var catalog = [
         "title": "Sojos Fashion Round Vintage",
         "category": "uni",
         "price": 14.99,
-        "image": ".\images\Sojos_Oversized_Fashion_Round_Vintage_14-99.JPG",
+        "image": "Sojos_Oversized_Fashion_Round_Vintage_14-99.JPG",
         "_id": "pn17"
     },
 
@@ -139,7 +139,7 @@ var catalog = [
         "title": "Sojos Retro Hexagon - Pink",
         "category": "womens",
         "price": 16.99,
-        "image": ".\images\Sojos_Retro_Hexagon_Women_14-99.JPG",
+        "image": "Sojos_Retro_Hexagon_Women_14-99.JPG",
         "_id": "pn18"
     },
 
@@ -147,7 +147,7 @@ var catalog = [
         "title": "Sojos Retro Square Aviator",
         "category": "uni",
         "price": 14.99,
-        "image": ".\images\Sojos_Retro_Square_Aviator_14-99.JPG",
+        "image": "Sojos_Retro_Square_Aviator_14-99.JPG",
         "_id": "pn19"
     },
 
@@ -155,7 +155,7 @@ var catalog = [
         "title": "Sojos Round Classic",
         "category": "womens",
         "price": 14.99,
-        "image": ".\images\Sojos_Small_Round_Classic_14-99.JPG",
+        "image": "Sojos_Small_Round_Classic_14-99.JPG",
         "_id": "pn20"
     },
     
@@ -163,7 +163,7 @@ var catalog = [
         "title": "Sojos Round Vintage",
         "category": "uni",
         "price": 15.99,
-        "image": ".\images\Sojos_Small_Round_Vintage_14-99.JPG",
+        "image": "Sojos_Small_Round_Vintage_14-99.JPG",
         "_id": "pn21"
     },
 
@@ -171,7 +171,7 @@ var catalog = [
         "title": "Sojos Square - Mirrored",
         "category": "womens",
         "price": 16.99,
-        "image": ".\images\Sojos_Small_Square_Polygonal_Mirrored_15-99.jpg",
+        "image": "Sojos_Small_Square_Polygonal_Mirrored_15-99.jpg",
         "_id": "pn22"
     },
 
@@ -179,7 +179,7 @@ var catalog = [
         "title": "Suncloud Bayshore",
         "category": "uni",
         "price": 25.04,
-        "image": ".\images\Suncloud_Bayshore_25-04.JPG",
+        "image": "Suncloud_Bayshore_25-04.JPG",
         "_id": "pn23"
     },
 
@@ -187,8 +187,22 @@ var catalog = [
         "title": "Suncloud Fortune",
         "category": "uni",
         "price": 24.32,
-        "image": ".\images\Suncloud_Fortune_24-32.JPG",
+        "image": "Suncloud_Fortune_24-32.JPG",
         "_id": "pn24"
     },
 
 ];
+
+
+class DataService {
+
+    getProducts() {
+        // TODO: Connect and get products from server to display
+
+        return catalog;
+    }
+
+
+}
+
+export default DataService;
