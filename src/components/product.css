@@ -1,12 +1,11 @@
-
 .product {
     border: 1px solid #6a6a6a;
     border-radius: 3px;
     display: inline-block;
     width:230px;
-    height: 405px;
+    height: 410px;
     margin: 5px 5px;
-    background-color:white;
+    background-color:rgba(255, 255, 255, 0.777);
     padding: 2px;
     vertical-align: top;
     box-shadow: 2px 1px 0 0 grey;

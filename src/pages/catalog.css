@@ -1,6 +1,8 @@
-
 .catalog {
     background-color: rgb(222, 244, 255);
+    background-image: url('https://imgs.search.brave.com/sRfM_JZCIRnb24k6uUvKqldZXT-QrqqugDq9lAbD-kI/rs:fit:1200:1126:1/g:ce/aHR0cDovL3dhbGxw/YXBlcmNhdmUuY29t/L3dwLzQyZGhIS04u/anBn');
+    background-repeat:repeat;
+    background-size: cover;
     min-height: 96vh;
 }
 
@@ -14,6 +16,10 @@
     letter-spacing: 10px;
 }
 
+.catalog h5 {
+    color: white;
+}
+
 .catalog .btn-filter {
-    margin: 10px;
+    margin: 20px;
 }

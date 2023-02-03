@@ -11,33 +11,29 @@ function Catalog() {
 
     useEffect(function(){
         console.log("component loaded");
-        loadCatalog();
+            loadCatalog();
     }, []);
 
     function loadCatalog() {
         let service = new DataService(); 
-        let prods = service.getProducts();
-        console.log(prods);
-        setProducts(prods);
-
-        setProdsToDisplay(prods);
-
+            let prods = service.getProducts();
+                console.log(prods);
+                    setProducts(prods);
+                    setProdsToDisplay(prods);
         //TODO: move this to a service
-        let cats = ["mens", "womens", "unisex"];
-        setCategories(cats);
+        let cats = ["Mens", "Womens", "Unisex"];
+            setCategories(cats);
     }
 
     function filter(category) {
         console.log(category);
-
-        let list = [];
-        for(let i=0; i < products.length; i++) {
+            let list = [];
+                for(let i=0; i < products.length; i++) {
             let prod = products[i];
-            if(prod.category === category) {
-                list.push(prod);
-            }
+                if(prod.category === category) {
+                    list.push(prod);
+                }
         }
-
         setProdsToDisplay(list);
     }
 
@@ -50,7 +46,7 @@ function Catalog() {
             <h1>Wade's Shades</h1>
             <h5>We have {products.length} exciting products available now!</h5>
 
-            <button onClick={clearFilter} className="btn btn-sm btn-dark btn-filter">All Products</button>
+            <button onClick={clearFilter} className="btn btn-sm btn-primary btn-filter">All Products</button>
 
             {categories.map(c => <button key={c} onClick={ () => filter(c) } className="btn btn-sm btn-primary btn-filter">{c}</button>)}
             <br />
