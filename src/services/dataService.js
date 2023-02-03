@@ -17,7 +17,7 @@ var catalog = [
 
     {
         "title": "Foster Grant Brown/Tortoise",
-        "category": "uni",
+        "category": "unisex",
         "price": 23.12,
         "image": "Foster_Grant_Brown_Tortoise_54mm_23-12.JPG",
         "_id": "pn3"
@@ -113,7 +113,7 @@ var catalog = [
 
     {
         "title": "Sojos Classic Aviators",
-        "category": "uni",
+        "category": "unisex",
         "price": 12.74,
         "image": "Sojos_Classic_Aviator_12-74.JPG",
         "_id": "pn15"
@@ -121,7 +121,7 @@ var catalog = [
 
     {
         "title": "Sojos Classic Round Vintage",
-        "category": "uni",
+        "category": "unisex",
         "price": 15.99,
         "image": "Sojos_Large_Classic_Round_Retro_Vintage_15-99.JPG",
         "_id": "pn16"
@@ -129,7 +129,7 @@ var catalog = [
 
     {
         "title": "Sojos Fashion Round Vintage",
-        "category": "uni",
+        "category": "unisex",
         "price": 14.99,
         "image": "Sojos_Oversized_Fashion_Round_Vintage_14-99.JPG",
         "_id": "pn17"
@@ -145,7 +145,7 @@ var catalog = [
 
     {
         "title": "Sojos Retro Square Aviator",
-        "category": "uni",
+        "category": "unisex",
         "price": 14.99,
         "image": "Sojos_Retro_Square_Aviator_14-99.JPG",
         "_id": "pn19"
@@ -161,7 +161,7 @@ var catalog = [
     
     {
         "title": "Sojos Small Round Vintage",
-        "category": "uni",
+        "category": "unisex",
         "price": 15.99,
         "image": "Sojos_Small_Round_Vintage_14-99.JPG",
         "_id": "pn21"
@@ -177,7 +177,7 @@ var catalog = [
 
     {
         "title": "Suncloud Bayshore",
-        "category": "uni",
+        "category": "unisex",
         "price": 25.04,
         "image": "Suncloud_Bayshore_25-04.JPG",
         "_id": "pn23"
@@ -185,7 +185,7 @@ var catalog = [
 
     {
         "title": "Suncloud Fortune",
-        "category": "uni",
+        "category": "unisex",
         "price": 24.32,
         "image": "Suncloud_Fortune_24-32.JPG",
         "_id": "pn24"
